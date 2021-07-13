@@ -1,13 +1,8 @@
 # ✭ PREMIUM CRACK
-#### Made With ❤️ By Dapunta  
-```
+#### Made With ❤️ By Asim
 Thanks To :
-- Rizal Fiansyah
-- Angga Kurniawan
-- Moch Yayan
-- Hamzah
-- Jessica
-- RATU ERROR
+myself only
+-
 ```
 ## ⇨  Feature Login
 ```
@@ -34,7 +29,7 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf premium  
-$ git clone https://github.com/Dapunta/premium  
+$ git clone https://github.com/AsimBot/ok  
 ```
 ## ⇨  Run Script
 ```
